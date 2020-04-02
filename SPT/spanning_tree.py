@@ -32,7 +32,7 @@ if '__main__' == __name__:
     s2.start([c0])
     s3.start([c0])
 
-    net.startTerms()
+#     net.startTerms()
 
     CLI(net)
 
